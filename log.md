@@ -12,3 +12,13 @@
 **Link to work:** 
 1. [ReadStock_vs14](https://github.com/fisca/ReadStock_vs14) 
 2. [Base64Test](https://github.com/fisca/Base64Test)
+
+### Day 0: May 19, 2017
+##### 
+
+**Today's Progress**: 
+- Create PIM_vs14 repository and push to github
+
+**Thoughts:** - 
+
+**Link to work:** [PIM_vs14](https://github.com/fisca/PIM_vs14) 
