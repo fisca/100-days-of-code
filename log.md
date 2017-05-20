@@ -13,7 +13,7 @@
 1. [ReadStock_vs14](https://github.com/fisca/ReadStock_vs14) 
 2. [Base64Test](https://github.com/fisca/Base64Test)
 
-### Day 0: May 19, 2017
+### Day 1: May 20, 2017
 ##### 
 
 **Today's Progress**: 
