@@ -22,3 +22,13 @@
 **Thoughts:** - 
 
 **Link to work:** [PIM_vs14](https://github.com/fisca/PIM_vs14) 
+
+### Day 2: May 21, 2017
+##### 
+
+**Today's Progress**: 
+- Update PIM_vs14 repository by create pim.h header file to keep all functions and modify ui to cli
+
+**Thoughts:** - 
+
+**Link to work:** [PIM_vs14](https://github.com/fisca/PIM_vs14)
